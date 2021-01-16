@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411017477645",
+    "firebase_url": "https://androidlogin-79b98.firebaseio.com",
+    "project_id": "androidlogin-79b98",
+    "storage_bucket": "androidlogin-79b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411017477645:android:33a712a0e31d6fda689f44",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411017477645-8sq8lnkgpdh4kjnaei0drbt9tesdhvei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFpE0Bn5dJYlJDkIBthFsKdiCGixnr6eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411017477645-8sq8lnkgpdh4kjnaei0drbt9tesdhvei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
